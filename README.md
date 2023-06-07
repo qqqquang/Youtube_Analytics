@@ -17,7 +17,7 @@ Với dự án này, em mong muốn tìm hiểu thêm:
     4. Kết luận
 
 
-## 3. Kết luận
+## Kết luận
 
 Trong dự án này, em đã khám phá được những thông tin thú vị từ 9 channel nổi tiếng trong ngành công nghiệp âm nhạc:
 - Video càng có nhiều lượt thích và bình luận thì video đó càng nhận được nhiều lượt xem (không đảm bảo rằng đây là mối quan hệ nhân quả, nó chỉ đơn giản là một mối tương quan và có thể tác động theo cả hai chiều). Lượt thích dường như là một chỉ số tương tác tốt hơn bình luận và số lượt thích dường như tuân theo "bằng chứng xã hội", có nghĩa là video càng có nhiều lượt xem thì càng có nhiều người thích video đó.
